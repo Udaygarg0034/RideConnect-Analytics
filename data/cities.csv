@@ -1,0 +1,11 @@
+city_id,city_name,state,tier
+DEL,Delhi,Delhi,Tier 1
+MUM,Mumbai,Maharashtra,Tier 1
+BLR,Bengaluru,Karnataka,Tier 1
+HYD,Hyderabad,Telangana,Tier 1
+CHN,Chennai,Tamil Nadu,Tier 1
+PUNE,Pune,Maharashtra,Tier 1
+KOL,Kolkata,West Bengal,Tier 1
+AMD,Ahmedabad,Gujarat,Tier 2
+JAI,Jaipur,Rajasthan,Tier 2
+LKO,Lucknow,Uttar Pradesh,Tier 2
